@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">HaJaU LSHGCo</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="mot">1</string>
+    <string name="hai">2</string>
+    <string name="ba">3</string>
+    <string name="bon">4</string>
+    <string name="nam">5</string>
+    <string name="sau">6</string>
+    <string name="bay">7</string>
+    <string name="tam">8</string>
+    <string name="chin">9</string>
+    <string name="title_activity_setting">Khóa mật mã</string>
+    <string name="active"><big><b><font color="black">Kích hoạt khóa\n</font></b></big>Kích hoạt chức năng này cho phép\nkhóa tự động bật khi màn hình mở</string>
+    <string name="hide_icon"><big><b><font color="black">Ẩn icon\n</font></b></big>Ẩn icon của chương trình khỏi danh\nsách ứng dụng</string>
+    <string name="time_reactive"><big><b><font color="black">Thời gian kích hoạt lại phím</font></b></big></string>
+    <string name="device_admin"><br><big><b><font color="black">Kích hoạt Device Admin\n</font></b></big></br>Kích hoạt chức năng này để làm mất\nthời gian hơn khi muốn gỡ bỏ ứng dụng</string>
+    <string name="read_launched_log"><br><big><b><font color="black">Cấp quyền đọc lịch sử điện thoại\n</font></b></big></br>Kích hoạt chức năng này giúp mở lại\nbàn phím khi bị vô hiệu hóa bằng cách nói Ok Google</string>
+</resources>
