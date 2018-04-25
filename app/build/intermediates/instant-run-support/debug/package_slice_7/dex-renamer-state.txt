@@ -1,4 +1,0 @@
-#Wed Dec 20 00:34:45 ICT 2017
-base.0=F\:\\Android\\Project\\HaJaULS\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\7
-path.0=classes.dex
-renamed.0=classes.dex
